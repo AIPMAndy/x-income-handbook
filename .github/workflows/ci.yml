@@ -1,0 +1,22 @@
+name: Validate handbook
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate data, structure, and docs
+        run: python3 scripts/check.py
+      - name: Run unit tests
+        run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+
+      - name: JavaScript syntax
+        run: node --check assets/app.js
+      - name: Browserless JavaScript smoke test
+        run: node scripts/smoke_dom.cjs

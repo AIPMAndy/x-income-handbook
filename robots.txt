@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aipmandy.github.io/x-income-handbook/sitemap.xml

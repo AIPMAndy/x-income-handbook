@@ -1,0 +1,4 @@
+scenario,qualified_inquiries,conversion_rate,avg_ticket_cny,refund_rate,acquisition_cost_cny,delivery_cost_cny
+conservative,5,0.05,300,0.10,300,200
+illustrative,20,0.10,500,0.05,150,200
+optimistic,40,0.15,800,0.05,150,300

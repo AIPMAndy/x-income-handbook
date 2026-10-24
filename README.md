@@ -87,7 +87,7 @@ GitHub Actions 检查成功不等于已完成手机端和分享预览的实际�
 
 ```text
 index.html                    交互网站
-assets/style.css              流动玻璃 + 响应式样式
+assets/style.css              编辑式排版 + 响应式样式
 assets/app.js                 章节搜索、路线、计算器、打卡
 assets/favicon.svg            网站标识
 assets/social-preview.png     可手动上传到 GitHub 的社交预览图

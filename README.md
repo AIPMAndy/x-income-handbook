@@ -3,6 +3,14 @@
 <a href="https://github.com/AIPMAndy/x-income-handbook"><img src="assets/readme-cover.svg" alt="X 赚钱实战指南封面" width="100%" /></a>
 
 <h1>X 赚钱实战指南</h1>
+<p><strong>曝光不是收入，从定位到成交建立完整链路</strong></p>
+<p>26 章教程 · 7 条变现路径 · 24 套模板</p>
+
+<p>
+<a href="https://github.com/AIPMAndy/x-income-handbook/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/AIPMAndy/x-income-handbook?style=flat-square&amp;color=7c8cff" /></a>
+<a href="LICENSE"><img alt="开源许可" src="https://img.shields.io/github/license/AIPMAndy/x-income-handbook?style=flat-square" /></a>
+<a href="https://github.com/AIPMAndy/x-income-handbook/actions/workflows/pages.yml"><img alt="GitHub Pages" src="https://github.com/AIPMAndy/x-income-handbook/actions/workflows/pages.yml/badge.svg" /></a>
+</p>
 <p><strong><a href="https://aipmandy.github.io/x-income-handbook/">🌐 在线网站</a> · <a href="chapters/">📖 系统章节</a> · <a href="templates/">🧩 24 套模板</a> · <a href="research/sources.md">📚 规则来源</a></strong></p>
 
 <p><a href="https://github.com/AIPMAndy/github-income-handbook">GitHub 赚钱</a>　·　<a href="https://github.com/AIPMAndy/x-income-handbook">X 赚钱</a>　·　<a href="https://github.com/AIPMAndy/threads-income-handbook">Threads 赚钱</a></p>

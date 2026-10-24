@@ -141,3 +141,12 @@ input[type="checkbox"]{accent-color:var(--ed-accent)!important}
 @media(max-width:950px){.hero{grid-template-columns:1fr!important;padding-top:76px!important}.ed-feature{max-width:620px}}
 @media(max-width:650px){.hero{padding:54px 0 42px!important}.hero h1{font-size:clamp(54px,11vw,80px)!important}}
 
+
+
+/* Native palette reconciliation: keep existing tools legible in editorial mode. */
+:root{--bg:#0E0E0F;--surface:#171718;--stroke:#343435;--stroke-hi:#616160;--ink:#F3F1ED;--muted:#AAA9A4;--faint:#85847F;--teal:#D7F297;--mint:#D7F297;--blue:#D7F297;--radius:8px;--shadow:none}
+.read-progress{background:var(--ed-accent)!important}
+:where(.visual-big,.calc-value,.calc-stat strong,.eligibility-result strong){color:var(--ed-ink)!important}
+:where(.section-head h2,.section-head h2 span){-webkit-text-fill-color:currentColor!important}
+:where(.source-card,.eligibility-card,.resources,.matcher,.library-toolbar,.contact-section){box-shadow:none!important;border:1px solid var(--ed-line)!important;background:var(--ed-paper)!important;border-radius:8px!important}
+:where(.source-card p,.eligibility-card p,.matcher p){color:var(--ed-muted)!important}

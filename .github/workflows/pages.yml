@@ -25,9 +25,9 @@ jobs:
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - run: node --check assets/app.js
       - run: node scripts/smoke_dom.cjs
+      # Pages is enabled in Settings → Pages (Source: GitHub Actions).
+      # GitHub Actions GITHUB_TOKEN cannot create the Pages site for a fresh repository.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: '.'

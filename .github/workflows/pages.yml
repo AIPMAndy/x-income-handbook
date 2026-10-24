@@ -26,6 +26,8 @@ jobs:
       - run: node --check assets/app.js
       - run: node scripts/smoke_dom.cjs
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: '.'

@@ -1,9 +1,21 @@
-# X 赚钱保姆级攻略 · 2026
+<div align="center">
 
-> 从 0 开始经营 X（Twitter）：七条变现路径、26 章系统教程、24 套模板、30 天行动计划、互动业务收益/时间成本测算。
+<a href="https://github.com/AIPMAndy/x-income-handbook"><img src="assets/readme-cover.svg" alt="X 赚钱实战指南封面" width="100%" /></a>
 
-**作者**：AI 酋长 Andy｜官网 [metaver.vip](https://metaver.vip/)｜微信：`AIPMAndy`  
-**政策核验日期**：2026-10-24｜**许可证**：MIT（代码与原创文字，见版权说明）
+<h1>X 赚钱实战指南</h1>
+<p><strong><a href="https://aipmandy.github.io/x-income-handbook/">🌐 在线网站</a> · <a href="chapters/">📖 系统章节</a> · <a href="templates/">🧩 24 套模板</a> · <a href="research/sources.md">📚 规则来源</a></strong></p>
+
+<p><a href="https://github.com/AIPMAndy/github-income-handbook">GitHub 赚钱</a>　·　<a href="https://github.com/AIPMAndy/x-income-handbook">X 赚钱</a>　·　<a href="https://github.com/AIPMAndy/threads-income-handbook">Threads 赚钱</a></p>
+
+<p><sub>AI 酋长 Andy · <a href="https://metaver.vip/">个人官网</a> · <a href="https://metaver.vip/services">咨询与陪跑</a> · 微信：<code>AIPMAndy</code></sub></p>
+
+</div>
+
+## 3 分钟开始
+
+1. **选择方向**：先读下方「先看结论」，按能力和资格选择可行的变现路径。
+2. **套用模板**：打开 [实操模板](templates/)，先做内容和服务报价的最小验证。
+3. **检查资格**：涉及官方奖励时先读 [官方资格对照表](templates/22-policy-check-matrix.md)，不要把总曝光当收入。
 
 ## 先看结论
 
@@ -46,24 +58,22 @@ node scripts/smoke_dom.cjs # 在无浏览器运行环境下验证 JS 初始化�
 
 - 内容同步检查、Python 单元测试和 JavaScript 无浏览器运行时检查已通过。
 - `scripts/browser_smoke.py` 提供点击、弹窗、资格检查及视觉截图的真实浏览器验收脚本，但**本次执行环境的浏览器禁止访问本地地址和 file URL，未获得有效新版截图**。部署后需在能访问本地网页的环境里执行。
-- 因未创建远程仓库，本次更新不会自动出现在 GitHub Pages；请先完成部署，再测手机端和分享预览。
+- 远程仓库已经创建；上线后仍需实测手机版、分享预览及关键交互，不能用构建成功代替浏览器验收。
 
 ## 一键开源发布
 
-本项目新增 `publish.sh`：在已经安装并登录 GitHub CLI 的 macOS/Linux 电脑上，解压后进入项目根目录执行 `bash publish.sh`，会先验证代码，再创建公开仓库并推送。它不会覆盖已存在仓库。详见 [PUBLISH.md](PUBLISH.md)。
+仓库已经建立。`publish.sh` 保留给需要从本地副本首次发布到其他新仓库的维护者；不会覆盖已有仓库。详见 [PUBLISH.md](PUBLISH.md)。
 
 ## GitHub Pages 部署
 
-目标仓库名：`AIPMAndy/x-income-handbook`（请先实际创建；文档中的目标地址不代表已经上线）。
+本仓库已创建，默认分支为 `main`，提供 [Pages 自动部署工作流](.github/workflows/pages.yml)。
 
-1. 在 GitHub 新建 **Public** 仓库 `x-income-handbook`（也可自行换名，换名后要同步 HTML canonical / sitemap 里的链接）。
-2. 把**本压缩包中的文件和目录上传到仓库根目录**，推送到 `main`。
-3. 进入仓库 `Settings → Pages → Build and deployment → Source`，选择 **GitHub Actions**。
-4. 打开 `Actions` 查看 `Deploy GitHub Pages`，等运行成功。
-5. 访问拟定地址 `https://aipmandy.github.io/x-income-handbook/`，验证手机版、章节弹窗与模板下载。
-6. 如需在仓库右侧展示社交分享图：`Settings → General → Social preview` 手动上传 `assets/social-preview.png`。
+1. 到仓库 **Settings → Pages** 确认发布源设置为 **GitHub Actions**。
+2. 在 [Actions](https://github.com/AIPMAndy/x-income-handbook/actions) 查看最新部署是否成功。
+3. 访问 [在线网站](https://aipmandy.github.io/x-income-handbook/)，实测手机版、章节阅读与模板下载。
+4. 如要设置 GitHub 仓库右侧的社交分享图，请到 **Settings → General → Social preview** 上传 `assets/social-preview.png`（需手动操作）。
 
-**说明**：仓库创建、Pages 设置与外部网站是否上线，需要在 GitHub 实际操作和检查后才能确认。当前压缩包并不代表仓库已创建。
+GitHub Actions 检查成功不等于已完成手机端和分享预览的实际验收。
 
 ## 目录
 

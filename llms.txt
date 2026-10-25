@@ -1,0 +1,32 @@
+# X (Twitter) 赚钱实战指南（X Income Handbook）
+
+> X（Twitter）怎么赚钱？AI 酋长 Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板、30 天计划，覆盖内容增长、真实成交与 X 创作者规则。不承诺涨粉或收入。
+
+不提供虚假身份、刷量、群发或绕开平台限制的操作；工具中的数字是场景假设。
+
+## 主要内容
+
+- [在线指南首页](https://aipmandy.github.io/x-income-handbook/): 7 条变现路径、26 章教程、工具箱、30 天计划、原创奖励资格自检
+- [26 章 Markdown 教程](https://github.com/AIPMAndy/x-income-handbook/tree/main/chapters): 每章含场景演练、逐步操作、完成标准
+- [官方资格对照表](https://github.com/AIPMAndy/x-income-handbook/blob/main/templates/22-policy-check-matrix.md): 原创奖励与 Subscriptions 资格
+- [GitHub 仓库](https://github.com/AIPMAndy/x-income-handbook)
+
+## 常见问题
+
+- X 创作者收入分成还能用吗？旧版 Creator Revenue Sharing 已于 2026-09-07 停止，新版是 Original Content Rewards，有资格门槛，以 X 官方最新文档为准。
+- X 有哪些变现路径？咨询、数字产品、AI/SaaS、联盟、商单、订阅、原创奖励。
+
+## 作者 About the author
+
+- AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+- AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.
+- 联系：微信 AIPMAndy · X https://x.com/AIPMAndy · Telegram https://t.me/AIPMAndy · 网站 https://metaver.vip/ · GitHub https://github.com/AIPMAndy
+
+## 作者的其他指南
+
+- [GitHub 赚钱实战指南](https://aipmandy.github.io/github-income-handbook/)
+- [Threads 赚钱实战指南](https://aipmandy.github.io/threads-income-handbook/)
+- [用 ChatGPT 赚钱保姆级攻略](https://aipmandy.github.io/chatgpt-income-handbook/)
+- [失业自救手册](https://aipmandy.github.io/how-to-survive-unemployment/)
+- [中国人赚美金攻略](https://aipmandy.github.io/how-to-earn-usd-from-china/)
+- [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)

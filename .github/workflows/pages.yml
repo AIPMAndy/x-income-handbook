@@ -27,6 +27,10 @@ jobs:
       - run: node scripts/smoke_dom.cjs
       # Pages is enabled in Settings → Pages (Source: GitHub Actions).
       # GitHub Actions GITHUB_TOKEN cannot create the Pages site for a fresh repository.
+      - name: Build social preview image from current design
+        run: |
+          python3 -m pip install --quiet "cairosvg>=2.7,<3"
+          python3 -c "import cairosvg; cairosvg.svg2png(url='assets/social-preview.svg', write_to='assets/social-preview.png')"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

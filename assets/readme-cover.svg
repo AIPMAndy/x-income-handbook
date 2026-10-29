@@ -1,33 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="t d">
-<title id="t">把内容曝光变成收入 · AI 酋长 Andy 开源教程</title><desc id="d">从账号定位到真实成交 · X 商业化实战指南</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080C19"/><stop offset=".58" stop-color="#131B32"/><stop offset="1" stop-color="#0B1225"/></linearGradient>
-<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#79C2FF"/><stop offset="1" stop-color="#9E9BFF"/></linearGradient>
-<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/></linearGradient>
-<pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/></pattern>
-<filter id="blur"><feGaussianBlur stdDeviation="54"/></filter>
-<filter id="shadow" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="24" stdDeviation="18" flood-color="#000000" flood-opacity=".4"/></filter>
-</defs>
-<rect width="1200" height="480" rx="28" fill="url(#bg)"/>
-<rect width="1200" height="480" rx="28" fill="url(#grid)"/>
-<circle cx="1040" cy="92" r="180" fill="#79C2FF" opacity=".25" filter="url(#blur)"/>
-<circle cx="710" cy="470" r="130" fill="#9E9BFF" opacity=".15" filter="url(#blur)"/>
-<rect x="35" y="34" width="1130" height="412" rx="29" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity=".16"/>
-<rect x="74" y="75" width="8" height="8" rx="4" fill="#9E9BFF"/>
-<text x="96" y="84" fill="#C6D0E7" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">AIPMANDY / OPEN SOURCE SERIES</text>
-<rect x="74" y="117" width="178" height="36" rx="18" fill="#79C2FF" fill-opacity=".13" stroke="#79C2FF" stroke-opacity=".45"/>
-<text x="93" y="140" fill="#E8EDFA" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">X / TWITTER  HANDBOOK</text>
-<text x="70" y="233" fill="#FAFCFF" font-family="-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="55" font-weight="760">把内容曝光变成收入</text>
-<text x="74" y="281" fill="#AAB9D5" font-family="-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="21">从账号定位到真实成交 · X 商业化实战指南</text>
-<g><rect x="74" y="333" width="182" height="59" rx="14" fill="#FFFFFF" fill-opacity=".052" stroke="#FFFFFF" stroke-opacity=".13"/><circle cx="96" cy="363" r="4" fill="#9E9BFF"/><text x="112" y="370" fill="#E6EEFF" font-family="-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="650">26 章实操</text></g>
-<g><rect x="272" y="333" width="182" height="59" rx="14" fill="#FFFFFF" fill-opacity=".052" stroke="#FFFFFF" stroke-opacity=".13"/><circle cx="294" cy="363" r="4" fill="#9E9BFF"/><text x="310" y="370" fill="#E6EEFF" font-family="-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="650">7 条路径</text></g>
-<g><rect x="470" y="333" width="182" height="59" rx="14" fill="#FFFFFF" fill-opacity=".052" stroke="#FFFFFF" stroke-opacity=".13"/><circle cx="492" cy="363" r="4" fill="#9E9BFF"/><text x="508" y="370" fill="#E6EEFF" font-family="-apple-system,BlinkMacSystemFont,'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="650">24 份模板</text></g>
-<g filter="url(#shadow)" transform="translate(955 230)">
-<circle r="122" fill="#101A33" fill-opacity=".7" stroke="#FFFFFF" stroke-opacity=".12"/>
-<circle r="95" fill="none" stroke="url(#a)" stroke-width="21" stroke-opacity=".8"/>
-<circle r="66" fill="#111A31" stroke="#FFFFFF" stroke-opacity=".25"/>
-<path d="M-26 -8L-2 17L39 -32" fill="none" stroke="url(#a)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="101" cy="-97" r="13" fill="#9E9BFF"/>
-</g>
-<text x="1126" y="403" text-anchor="end" fill="#75839E" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">FIELD GUIDE 02 / 03</text>
+<title id="t">X 赚钱实战指南 — 免费开源教程</title><desc id="d">Clean editorial cover for AI 酋长 Andy's open source handbook</desc>
+<rect width="1200" height="480" fill="#f5f5f7"/>
+<rect x="30" y="30" width="1140" height="420" rx="30" fill="#fff" stroke="#ececf0"/>
+<rect x="75" y="75" width="44" height="44" rx="13" fill="#1d1d1f"/><text x="97" y="106" font-size="27" font-family="Arial,sans-serif" text-anchor="middle" fill="#fff">𝕏</text>
+<text x="136" y="96" font-family="-apple-system,Arial,sans-serif" font-size="14" letter-spacing="3" font-weight="700" fill="#444448">X INCOME HANDBOOK</text><text x="136" y="117" font-family="-apple-system,Arial,sans-serif" font-size="12" fill="#88888e">AI 酋长 Andy · Open Source</text>
+<text x="75" y="235" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="61" letter-spacing="-2" font-weight="750" fill="#1d1d1f">把 X 的流量，</text>
+<text x="75" y="308" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="61" letter-spacing="-2" font-weight="750" fill="#0071e3">变成真实收入。</text>
+<text x="78" y="367" font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="16" fill="#737378">26 章详细教程  ·  7 条变现路线  ·  24 套实操模板</text>
+<rect x="755" y="99" width="355" height="289" rx="25" fill="#f5f5f7" stroke="#e6e6ea"/>
+<circle cx="790" cy="132" r="6" fill="#0071e3"/><text x="806" y="137" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#77777e">YOUR INCOME MAP</text>
+<text x="790" y="244" font-family="Arial,sans-serif" font-size="106" font-weight="700" letter-spacing="-8" fill="#1d1d1f">7</text><text x="860" y="243" font-family="Arial,sans-serif" font-size="23" fill="#66666d">paths</text>
+<rect x="788" y="287" width="90" height="38" rx="10" fill="#fff"/><rect x="892" y="287" width="90" height="38" rx="10" fill="#fff"/><rect x="996" y="287" width="85" height="38" rx="10" fill="#e4f1ff"/>
+<text x="833" y="311" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,sans-serif" font-size="13" fill="#54545a">内容</text><text x="937" y="311" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,sans-serif" font-size="13" fill="#54545a">信任</text><text x="1039" y="311" text-anchor="middle" font-family="PingFang SC,Noto Sans CJK SC,sans-serif" font-size="13" fill="#0066cc">成交</text>
+<path d="M876 307h12m-7 -4l7 4l-7 4M980 307h12m-7 -4l7 4l-7 4" fill="none" stroke="#a0a0a5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="790" y="354" font-family="Arial,sans-serif" font-size="12" letter-spacing=".7" fill="#77777e">FREE  •  MIT LICENSE  •  2026</text>
 </svg>

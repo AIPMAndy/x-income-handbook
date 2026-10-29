@@ -160,6 +160,12 @@ python3 scripts/check.py
 
 教程免费开源（MIT）。作者是 AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
 
+## 说明
+
+Note: This license covers original code and content for which the copyright
+holder has rights. Third-party names, trademarks and externally linked content
+are not sublicensed under this license.
+
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 

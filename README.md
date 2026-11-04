@@ -15,11 +15,11 @@
 
 <p><a href="https://github.com/AIPMAndy/github-income-handbook">GitHub 赚钱</a>　·　<a href="https://github.com/AIPMAndy/x-income-handbook">X 赚钱</a>　·　<a href="https://github.com/AIPMAndy/threads-income-handbook">Threads 赚钱</a></p>
 
-<p><sub>AI 酋长 Andy · <a href="https://metaver.vip/">个人官网</a> · <a href="https://metaver.vip/services">咨询与陪跑</a> · 微信：<code>AIPMAndy</code></sub></p>
+<p><sub>AI酋长Andy · <a href="https://metaver.vip/">个人官网</a> · <a href="https://metaver.vip/services">咨询与陪跑</a> · 微信：<code>AIPMAndy</code></sub></p>
 
 </div>
 
-**X（Twitter）怎么赚钱？** 这是 AI 酋长 Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板和 30 天计划，覆盖内容增长、真实成交与 X 创作者规则。曝光不是收入，本项目不承诺涨粉或收入。
+**X（Twitter）怎么赚钱？** 这是 AI酋长Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板和 30 天计划，覆盖内容增长、真实成交与 X 创作者规则。曝光不是收入，本项目不承诺涨粉或收入。
 
 *How to make money on X (Twitter): a free, open-source Chinese guide by AI Chief Andy (@AIPMAndy), with 26 chapters, 7 monetization paths and 24 templates.*
 
@@ -158,7 +158,7 @@ python3 scripts/check.py
 
 ### 这份指南收费吗？作者是谁？
 
-教程免费开源（MIT）。作者是 AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+教程免费开源（MIT）。作者是 AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
 
 ## 说明
 
@@ -169,7 +169,7 @@ are not sublicensed under this license.
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
 
 微信 `AIPMAndy`（备注「X 赚钱攻略」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 

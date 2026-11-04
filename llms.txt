@@ -1,6 +1,6 @@
 # X (Twitter) 赚钱实战指南（X Income Handbook）
 
-> X（Twitter）怎么赚钱？AI 酋长 Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板、30 天计划，覆盖内容增长、真实成交与 X 创作者规则。不承诺涨粉或收入。
+> X（Twitter）怎么赚钱？AI酋长Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板、30 天计划，覆盖内容增长、真实成交与 X 创作者规则。不承诺涨粉或收入。
 
 不提供虚假身份、刷量、群发或绕开平台限制的操作；工具中的数字是场景假设。
 
@@ -18,7 +18,7 @@
 
 ## 作者 About the author
 
-- AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+- AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
 - AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.
 - 联系：微信 AIPMAndy · X https://x.com/AIPMAndy · Telegram https://t.me/AIPMAndy · 网站 https://metaver.vip/ · GitHub https://github.com/AIPMAndy
 

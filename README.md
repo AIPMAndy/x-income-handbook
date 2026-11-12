@@ -158,7 +158,7 @@ python3 scripts/check.py
 
 ### 这份指南收费吗？作者是谁？
 
-教程免费开源（MIT）。作者是 AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+教程免费开源（MIT）。作者是 AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）：流量 AI 联合创始人、星觉 AI 创始人。
 
 ## 说明
 
@@ -167,13 +167,26 @@ holder has rights. Third-party names, trademarks and externally linked content
 are not sublicensed under this license.
 
 <!-- andy-author-card:start -->
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**X（Twitter）赚钱开源实战指南：内容增长、真实成交与创作者规则，不承诺涨粉或收入。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读](https://aipmandy.github.io/x-income-handbook/) · [仓库](https://github.com/AIPMAndy/x-income-handbook)
+- 联系：微信 `AIPMAndy`（备注「X赚钱」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
+
 ## 作者 / About the author
 
-**AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI酋长Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。
 
 微信 `AIPMAndy`（备注「X 赚钱攻略」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 
-*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is co-founder of 流量 AI and founder of 星觉 AI at 星觉科技 in Beijing.*
 
 ### Andy 的其他免费指南
 

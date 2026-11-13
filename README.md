@@ -19,6 +19,17 @@
 
 </div>
 
+<!-- andy-pdf-edition:start -->
+## 精美 PDF 电子书
+
+[**免费下载《X 赚钱实战指南》**](pdf/x-income-handbook-guide.pdf) · [直接下载 PDF](https://github.com/AIPMAndy/x-income-handbook/raw/refs/heads/main/pdf/x-income-handbook-guide.pdf)
+
+**97 页 · A5 手机阅读版 · 可点击目录 · 0.91 MB**  
+整理日期：2026-11-13。包含完整实操正文、案例、模板与原始来源；平台规则与价格沿用原资料的核查日期。
+
+**作者与服务（广告）**：AI 酋长 Andy · 个人微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费教程可直接使用，咨询与合作自愿选择。
+<!-- andy-pdf-edition:end -->
+
 **X（Twitter）怎么赚钱？** 这是 AI酋长Andy 写的免费开源中文指南：26 章教程、7 条变现路径、24 套模板和 30 天计划，覆盖内容增长、真实成交与 X 创作者规则。曝光不是收入，本项目不承诺涨粉或收入。
 
 *How to make money on X (Twitter): a free, open-source Chinese guide by AI Chief Andy (@AIPMAndy), with 26 chapters, 7 monetization paths and 24 templates.*

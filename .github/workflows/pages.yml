@@ -39,3 +39,5 @@ jobs:
           path: '.'
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify public Pages bytes against source commit
+        run: python3 scripts/verify_live.py

@@ -6,6 +6,7 @@
 
 ## 主要内容
 
+- [X 内容增长实验台](https://aipmandy.github.io/x-income-handbook/experiment.html): 浏览器本地记录真实曝光、访问、有效询盘、成交及成本；筛选/CSV 导出；非因果归因和非收益保证。
 - [在线指南首页](https://aipmandy.github.io/x-income-handbook/): 7 条变现路径、26 章教程、工具箱、30 天计划、原创奖励资格自检
 - [26 章 Markdown 教程](https://github.com/AIPMAndy/x-income-handbook/tree/main/chapters): 每章含场景演练、逐步操作、完成标准
 - [官方资格对照表](https://github.com/AIPMAndy/x-income-handbook/blob/main/templates/22-policy-check-matrix.md): 原创奖励与 Subscriptions 资格

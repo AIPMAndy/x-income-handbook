@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f7f7f5">
+  <meta name="robots" content="index,follow">
+  <title>X 内容增长实验台｜真实询盘与转化复盘 · AI 酋长 Andy</title>
+  <meta name="description" content="免费、纯本地的 X 内容增长实验台：记录真实曝光、主页访问、有效询盘、订单及成本，按实验复盘漏斗并导出 CSV。不追踪用户，不承诺收益。">
+  <meta name="author" content="AI 酋长 Andy">
+  <link rel="canonical" href="https://aipmandy.github.io/x-income-handbook/experiment.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="X 内容增长实验台 · AI 酋长 Andy">
+  <meta property="og:description" content="先记真实询盘，再判断内容是否值得继续。免费离线记录、筛选、CSV 导出。">
+  <meta property="og:url" content="https://aipmandy.github.io/x-income-handbook/experiment.html">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="assets/experiment.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","@id":"https://aipmandy.github.io/x-income-handbook/experiment.html#webpage","url":"https://aipmandy.github.io/x-income-handbook/experiment.html","name":"X 内容增长实验台｜真实询盘与转化复盘","inLanguage":"zh-CN","datePublished":"2026-11-20","dateModified":"2026-11-20","isPartOf":{"@type":"WebSite","name":"X 赚钱实战指南","url":"https://aipmandy.github.io/x-income-handbook/"},"author":{"@type":"Person","name":"AI 酋长 Andy","url":"https://metaver.vip/","sameAs":["https://github.com/AIPMAndy","https://x.com/AIPMAndy"]},"publisher":{"@type":"Organization","name":"星觉科技","url":"https://www.a6no1.cn/"},"citation":["https://help.x.com/en/rules-and-policies/authenticity","https://help.x.com/en/rules-and-policies/paid-partnerships-policy"],"about":"用户自填的 X 内容业务漏斗实验；数据由用户自行提供，不代表平台官方分析或因果归因"}</script>
+  <script src="assets/experiment.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#workspace">跳转到实验工作台</a>
+  <header class="nav wrap">
+    <a class="wordmark" href="./"><span class="mark">𝕏</span><span>INCOME <b>LAB</b><small>OPEN SOURCE · BY ANDY</small></span></a>
+    <nav aria-label="主导航"><a href="./">完整教程</a><a href="#workspace">实验记录</a><a href="#references">方法与来源</a></nav>
+    <a class="nav-link" href="https://metaver.vip/services" target="_blank" rel="noopener noreferrer">咨询服务 <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="hero wrap" aria-labelledby="page-title">
+      <div class="hero-main">
+        <p class="eyebrow">X / BUSINESS EXPERIMENTS · 01</p>
+        <h1 id="page-title">很多曝光。<br><em>真正的询盘呢？</em></h1>
+        <p class="hero-lead">用自己的数据记录内容实验。看用户有没有走到咨询和成交，而不只是点赞。</p>
+        <div class="hero-actions"><a class="primary-btn" href="#recordForm">记录一次实验 <span>↗</span></a><a class="subtle-btn" href="#results">看复盘方法 ↓</a></div>
+      </div>
+      <div class="hero-side" aria-label="实验评估原则">
+        <div class="hero-side-top"><span>EXPERIMENT / RULES</span><span>NO GUARANTEES</span></div>
+        <div class="hero-big">03</div>
+        <p class="hero-side-title">判断一条内容，先问三件事。</p>
+        <div class="hero-rule"><span>01</span>谁看见了？</div>
+        <div class="hero-rule"><span>02</span>多少人主动咨询？</div>
+        <div class="hero-rule"><span>03</span>实际收入能覆盖成本吗？</div>
+        <p class="muted">只计算你亲自录入的记录。无预设案例、虚构收入或平台收益推断。</p>
+      </div>
+    </section>
+
+    <section id="workspace" class="workspace wrap" aria-labelledby="workspace-title">
+      <div class="section-heading"><span class="eyebrow">01 / YOUR ACTUAL DATA</span><h2 id="workspace-title">从一条真实内容开始。</h2><p>输入你有证据的数据，未统计的字段留空不代表 0。数值应来自同一观察窗口；无法归因的询盘要在备注里注明。</p></div>
+      <div class="columns">
+        <form id="recordForm" class="panel input-panel" autocomplete="off">
+          <div class="panel-top"><div><small>ADD / EXPERIMENT</small><h3>创建实验记录</h3></div><span class="privacy">仅存本地</span></div>
+          <div class="field"><label for="name">内容或实验名称 *</label><input id="name" name="name" required maxlength="90" placeholder="例如：某篇求职工具教程（真实发布后填写）"></div>
+          <div class="field-row">
+            <div class="field"><label for="date">记录日期 *</label><input id="date" name="date" type="date" required></div>
+            <div class="field"><label for="format">内容类型</label><select id="format" name="format"><option value="教程">教程</option><option value="真实经历">真实经历</option><option value="开源工具">开源工具</option><option value="观点">观点</option><option value="其他">其他</option></select></div>
+          </div>
+          <div class="field"><label for="hypothesis">本次假设</label><input id="hypothesis" name="hypothesis" maxlength="160" placeholder="例如：清晰的实际步骤可能带来更多有效问题"></div>
+          <div class="field-grid">
+            <div class="field"><label for="impressions">曝光次数</label><input id="impressions" name="impressions" inputmode="numeric" type="number" min="0" max="1000000000" step="1" placeholder="未统计可填 0"></div>
+            <div class="field"><label for="visits">主页访问</label><input id="visits" name="visits" inputmode="numeric" type="number" min="0" max="1000000000" step="1" placeholder="0"></div>
+            <div class="field"><label for="leads">有效询盘</label><input id="leads" name="leads" inputmode="numeric" type="number" min="0" max="1000000000" step="1" placeholder="0"></div>
+            <div class="field"><label for="orders">已成交订单</label><input id="orders" name="orders" inputmode="numeric" type="number" min="0" max="1000000000" step="1" placeholder="0"></div>
+            <div class="field"><label for="revenue">已确认收入（¥）</label><input id="revenue" name="revenue" inputmode="decimal" type="number" min="0" max="1000000000" step="0.01" placeholder="0"></div>
+            <div class="field"><label for="cost">直接成本（¥）</label><input id="cost" name="cost" inputmode="decimal" type="number" min="0" max="1000000000" step="0.01" placeholder="0"></div>
+          </div>
+          <div class="field"><label for="note">来源与复盘备注</label><textarea id="note" name="note" maxlength="400" rows="3" placeholder="记录 X Analytics 日期、CRM 来源、样本偏差；不要填写客户敏感信息"></textarea></div>
+          <p class="form-note">不采集身份信息，不连接 X 或任何 CRM。收入与成本均由你填写。未包含税、人工、跨内容归因与后续退款。</p>
+          <button class="primary-btn submit" type="submit">保存到当前浏览器 <span>+</span></button>
+          <p id="saveStatus" class="save-status" role="status" aria-live="polite"></p>
+        </form>
+        <div id="results" class="results" aria-label="数据汇总">
+          <div class="panel dashboard">
+            <div class="panel-top"><div><small>MEASURE / NOT GUESS</small><h3>已记录实验汇总</h3></div><span class="privacy">按当前筛选</span></div>
+            <div class="big-metric"><span>累计有效询盘</span><strong id="totalLeads">0</strong><small id="experimentCount">0 条实验记录</small></div>
+            <div class="metrics">
+              <div><small>总曝光</small><strong id="totalImpressions">0</strong></div>
+              <div><small>总主页访问</small><strong id="totalVisits">0</strong></div>
+              <div><small>总成交订单</small><strong id="totalOrders">0</strong></div>
+              <div><small>现金贡献*</small><strong id="netContribution">—</strong></div>
+            </div>
+          </div>
+          <div class="panel ratios">
+            <div class="panel-top"><div><small>OBSERVATIONAL FUNNEL</small><h3>漏斗观察</h3></div></div>
+            <div class="ratio-row"><span>主页访问 ÷ 曝光</span><strong id="visitRate">—</strong></div>
+            <div class="ratio-row"><span>有效询盘 ÷ 主页访问</span><strong id="leadRate">—</strong></div>
+            <div class="ratio-row"><span>成交订单 ÷ 有效询盘</span><strong id="orderRate">—</strong></div>
+            <p id="funnelWarning" class="insight" aria-live="polite">没有记录时不输出比率。</p>
+            <small class="disclaimer">* 现金贡献＝填报收入－直接成本；不等于利润。不同指标可能来自不同归因口径，不能据此证明因果，也不能把 X 平台奖励按曝光估算。</small>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="wrap archive" aria-labelledby="archive-title">
+      <div class="section-heading"><span class="eyebrow">02 / REPEAT & DECIDE</span><h2 id="archive-title">把实验留下，再决定下一步。</h2><p>按标题、内容类型和备注检索。导出当前筛选的 CSV 供 Excel / 表格分析，避免将内容生产变成没有结论的忙碌。</p></div>
+      <div class="toolbar panel">
+        <label for="search">搜索记录<input id="search" type="search" placeholder="标题、假设、备注" autocomplete="off"></label>
+        <label for="formatFilter">类型筛选<select id="formatFilter"><option value="全部">全部类型</option><option>教程</option><option>真实经历</option><option>开源工具</option><option>观点</option><option>其他</option></select></label>
+        <button type="button" id="exportCsv" class="subtle-btn">导出当前 CSV ↓</button>
+        <button type="button" id="resetAll" class="text-btn">清空本机记录</button>
+      </div>
+      <div class="panel table-panel">
+        <div class="scroll-table"><table><caption class="sr-only">实验记录清单，可按条删除</caption><thead><tr><th scope="col">日期 / 实验</th><th scope="col">类型</th><th scope="col">曝光</th><th scope="col">询盘</th><th scope="col">成交</th><th scope="col">现金贡献*</th><th scope="col">操作</th></tr></thead><tbody id="recordsBody"></tbody></table></div>
+        <p id="emptyState" class="empty">暂无记录。先完成一次真实发布，再录入观察数据。</p>
+      </div>
+    </section>
+
+    <section id="references" class="wrap source-panel" aria-labelledby="ref-title">
+      <div class="section-heading"><span class="eyebrow">03 / EVIDENCE & LIMITATIONS</span><h2 id="ref-title">数据可追溯，结论要克制。</h2></div>
+      <div class="source-grid">
+        <article><span>01 / 数据口径</span><h3>先记录来源</h3><p>每条实验备注写明 X Analytics 截图日期、订单系统查询日期和归因依据。同期间的数据只具有描述性，不证明某条帖子导致成交。</p></article>
+        <article><span>02 / 官方来源</span><h3>X 真实性政策</h3><p>请按官方政策执行，不使用虚假互动、群发垃圾内容或未经授权的自动化。</p><a href="https://help.x.com/en/rules-and-policies/authenticity" target="_blank" rel="noopener noreferrer">查看 X 官方原文 ↗</a></article>
+        <article><span>03 / 商单披露</span><h3>有偿合作须核验</h3><p>付费合作、受限行业和广告披露规则随地区与平台更新；本页不替代官方审核或法律建议。</p><a href="https://help.x.com/en/rules-and-policies/paid-partnerships-policy" target="_blank" rel="noopener noreferrer">查看 X 官方政策 ↗</a></article>
+      </div>
+      <p class="source-date">工具版本：2026-11-20。官方来源链接为复查入口，不宣称其内容在本日逐项重新核验。教学方法：先形成假设 → 真实记录 → 检查询盘与成本 → 决定继续或停止。</p>
+    </section>
+    <section class="wrap contact"><div><p class="eyebrow">OPEN KNOWLEDGE / OPTIONAL SERVICE</p><h2>免费记录工具。<br>有明确问题，再谈合作。</h2><p>作者：AI 酋长 Andy · 星觉科技。阅读和记录无需加微信，也不会向服务器传输实验数据。</p></div><div class="contact-links"><a href="https://metaver.vip/" target="_blank" rel="noopener noreferrer">个人官网 ↗</a><a href="https://www.a6no1.cn/" target="_blank" rel="noopener noreferrer">星觉科技公司官网 ↗</a><a href="https://metaver.vip/services" target="_blank" rel="noopener noreferrer">咨询服务 ↗</a><button type="button" id="copyWechat">复制微信 AIPMAndy</button><a href="https://github.com/AIPMAndy/x-income-handbook" target="_blank" rel="noopener noreferrer">开源源码 ↗</a></div></section>
+  </main>
+  <footer class="wrap footer"><span>© 2026 AI 酋长 Andy · 独立开源教程</span><a href="./">返回 X 赚钱实战指南</a><span>所有数据留在当前浏览器 · 不承诺结果</span></footer>
+</body>
+</html>

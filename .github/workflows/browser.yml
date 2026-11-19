@@ -1,0 +1,28 @@
+name: Chromium experiment workbench
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Playwright and Chromium
+        run: |
+          python -m pip install "playwright==1.56.0"
+          python -m playwright install --with-deps chromium
+      - name: Browser smoke at 360, 390 and 1280px
+        run: python3 scripts/experiment_browser_smoke.py
+      - name: Archive screenshots for human review (not sign-off)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: x-experiment-chromium-screenshots
+          path: research/screenshots/experiment/*.png
+          if-no-files-found: ignore
